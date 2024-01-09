@@ -3,19 +3,19 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Universitas Darunnajah ‒ Rooted in Tradition, Leading in Education
+    url: https://www.darunnajah.ac.id
+  - name: Sistem Informasi Akademik
+    url: https://simak.darunnajah.ac.id
+  - name: Learning Management System
+    url: https://lms.darunnajah.ac.id
+  - name: Repository
+    url: https://repository.darunnajah.ac.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: online.darunnajah.ac.id
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
