@@ -13,6 +13,13 @@ sites:
     url: https://repository.darunnajah.ac.id
 
 status-website:
+  favicon: https://avatars.githubusercontent.com/u/119548347
+  metaTags:
+  #  - name: "color-scheme"
+  #    content: "dark light"
+    - name: "robots"
+      content: "noindex"
+  robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: online.darunnajah.ac.id
