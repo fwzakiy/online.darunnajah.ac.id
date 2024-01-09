@@ -1,6 +1,6 @@
 # [📈 Live Status](https://online.darunnajah.ac.id): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Universitas Darunnajah](https://www.darunnajah.ac.id), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/fwzakiy/online/workflows/Uptime%20CI/badge.svg)](https://github.com/fwzakiy/online/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/fwzakiy/online/workflows/Response%20Time%20CI/badge.svg)](https://github.com/fwzakiy/online/actions?query=workflow%3A%22Response+Time+CI%22)
