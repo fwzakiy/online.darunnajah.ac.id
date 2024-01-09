@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/119548347
   name: Status Situs Web & Sistem Informasi Universitas Darunnajah
   introTitle: "**Universitas Darunnajah** adalah lembaga pendidikan tinggi swasta yang bernaung dibawah Yayasan Darunnajah di Jakarta Selatan, Indonesia."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Halaman ini berfungsi untuk memonitor situs web dan sistem informasi yang dimiliki Universitas Darunnajah.
   navbar:
     - title: Status
       href: /
