@@ -65,7 +65,7 @@ i18n:
   ms: milidetik
   loading: Loading
   navGitHub: GitHub
-  footer: Halaman ini dikembangkan oleh [Faishal Wafiq  Zakiy](https:/www.zakiy.my.id) untuk [Universitas Darunanjah](https://www.darunnajah.ac.id).
+  footer: Halaman ini dikembangkan oleh [Faishal Wafiq Zakiy](https://www.zakiy.my.id) untuk [Universitas Darunanjah](https://www.darunnajah.ac.id).
   rateLimitExceededTitle: Batas tarif terlampaui
   rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
   rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
