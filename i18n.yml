@@ -1,0 +1,62 @@
+Berikut adalah terjemahan dari kata-kata setelah titik dua ke dalam bahasa Indonesia:
+
+activeIncidents: Insiden Aktif
+allSystemsOperational: Semua sistem beroperasi
+incidentReport: Laporan Insiden #$NUMBER →"
+activeIncidentSummary: Dibuka pada $DATE dengan $POSTS posting
+incidentTitle: Rincian Insiden $NUMBER
+incidentDetails: Rincian Insiden
+incidentFixed: Diperbaiki
+incidentOngoing: Sedang Berlangsung
+incidentOpenedAt: Dibuka pada
+incidentClosedAt: Ditutup pada
+incidentViewOnGitHub: Lihat dan Berlangganan di GitHub
+incidentCommentSummary: Diposting pada $DATE oleh $AUTHOR
+incidentBack: ← Kembali ke semua insiden
+pastIncidents: Insiden Terdahulu
+pastIncidentsResolved: Diselesaikan dalam $MINUTES menit dengan $POSTS posting
+liveStatus: Status Langsung
+overallUptime: "Waktu aktif keseluruhan: $UPTIME"
+overallUptimeTitle: Waktu aktif keseluruhan
+averageResponseTime: "Waktu tanggapan rata-rata: $TIMEms"
+averageResponseTimeTitle: Waktu tanggapan rata-rata
+sevelDayResponseTime: Waktu tanggapan 7 hari
+responseTimeMs: Waktu tanggapan (ms)
+up: Aktif
+down: Mati
+degraded: Terdegradasi
+ms: ms
+loading: Memuat
+navGitHub: GitHub
+footer: Halaman ini adalah [sumber terbuka]($REPO), didukung oleh [Upptime](https://upptime.js.org)
+rateLimitExceededTitle: Batas penggunaan terlampaui
+rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum dapat mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
+rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
+rateLimitExceededErrorMeaning: Situs web ini menggunakan API GitHub untuk mengakses data waktu nyata tentang status situs web kami. Secara default, GitHub memperbolehkan setiap alamat IP 60 permintaan per jam, yang sudah Anda konsumsi.
+rateLimitExceededErrorHowCanFix: Bagaimana cara memperbaikinya?
+rateLimitExceededErrorFix: Anda dapat menunggu satu jam lagi, dan batasan alamat IP Anda akan dipulihkan. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub Anda, yang memberikan tambahan 5.000 permintaan per jam.
+rateLimitExceededGeneratePAT: Pelajari cara menghasilkan Token Akses Pribadi
+rateLimitExceededHasSet: Anda memiliki token akses pribadi yang diatur.
+rateLimitExceededRemoveToken: Hapus token
+rateLimitExceededGitHubPAT: Token Akses Pribadi GitHub
+rateLimitExceededCopyPastePAT: Salin dan tempel token Anda
+rateLimitExceededSaveToken: Simpan token
+errorTitle: Terjadi kesalahan
+errorIntro: Terjadi kesalahan saat mencoba mendapatkan rincian status terbaru.
+errorText: Anda dapat mencoba lagi dalam beberapa saat.
+errorHome: Pergi ke beranda
+pastScheduledMaintenance: Pemeliharaan Terdahulu yang Dijadwalkan
+scheduledMaintenance: Pemeliharaan Terjadwal
+scheduledMaintenanceSummaryStarted: Dimulai pada $DATE selama $DURATION menit
+scheduledMaintenanceSummaryStarts: Dimulai pada $DATE selama $DURATION menit
+startedAt: Dimulai pada
+startsAt: Dimulai pada
+duration: Durasi
+durationMin: $DURATION menit
+incidentCompleted: Selesai
+incidentScheduled: Terjadwal
+duration24H: 24 jam
+duration7D: 7 hari
+duration30D: 30 hari
+duration1Y: 1 tahun
+durationAll: semua
