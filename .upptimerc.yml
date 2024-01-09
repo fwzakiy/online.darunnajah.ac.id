@@ -59,10 +59,10 @@ i18n:
   averageResponseTime: Waktu respons rata-rata $TIMEms
   averageResponseTimeTitle: Respon rata-rata
   sevelDayResponseTime: Waktu respons 7 hari
-  responseTimeMs: Waktu respons (ms)
+  responseTimeMs: Waktu respons (milidetik)
   up: Aktif
   down: Non-aktif
-  ms: ms
+  ms: milidetik
   loading: Loading
   navGitHub: GitHub
   footer: Halaman ini dikembangkan oleh [Faishal Wafiq  Zakiy](https:/www.zakiy.my.id) untuk [Universitas Darunanjah](https://www.darunnajah.ac.id).
