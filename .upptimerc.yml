@@ -11,6 +11,8 @@ sites:
     url: https://lms.darunnajah.ac.id
   - name: Repository
     url: https://repository.darunnajah.ac.id
+  - name: e-Library
+    url: https://e-library.darunnajah.ac.id
 
 status-website:
   favicon: https://avatars.githubusercontent.com/u/119548347
