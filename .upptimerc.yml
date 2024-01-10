@@ -69,11 +69,11 @@ status-website:
   cname: online.darunnajah.ac.id
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/119548347
-  name: Status Situs Web & Sistem Informasi Universitas Darunnajah
+  name: Monitoring Situs Web & Sistem Informasi Universitas Darunnajah
   introTitle: "**Universitas Darunnajah** adalah lembaga pendidikan tinggi swasta yang bernaung dibawah Yayasan Darunnajah di Jakarta Selatan, Indonesia."
   introMessage: Halaman ini berfungsi untuk memonitor situs web dan sistem informasi yang dimiliki Universitas Darunnajah.
   navbar:
-    - title: Status
+    - title: Monitoring
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
