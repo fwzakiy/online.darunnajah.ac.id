@@ -4,18 +4,20 @@
     "url": "https://www.darunnajah.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.darunnajah.ac.id.ico",
     "slug": "situs-web-resmi-universitas-darunnajah",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 23056,
     "timeDay": 23056,
     "timeWeek": 23056,
     "timeMonth": 23056,
     "timeYear": 23056,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   },
   {
     "name": "Sistem Informasi Akademik",
@@ -383,18 +385,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/importeruniv.darunnajah.ac.id.ico",
     "slug": "importer-universitas",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "81.34%",
+    "uptimeDay": "81.34%",
+    "uptimeWeek": "81.34%",
+    "uptimeMonth": "81.34%",
+    "uptimeYear": "81.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 14
+      "2024-01-10": 15
     }
   },
   {
