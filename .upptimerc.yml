@@ -9,6 +9,21 @@ sites:
     url: https://simak.darunnajah.ac.id
   - name: Learning Manajemen System
     url: https://lms.darunnajah.ac.id
+  - name: ParentDesk
+    url: https://parentdesk.darunnajah.ac.id
+  - name: StudentDesk
+    url: https://studentdesk.darunnajah.ac.id
+  - name: Student Cash
+    url: https://tukeuangan.darunnajah.ac.id
+  - name: Tracer Study
+    url: https://tracerstudy.darunnajah.ac.id
+
+  - name: Penerimaan Mahasiswa Baru
+    url: https://pendaftaran.darunnajah.ac.id
+
+  - name: SIAKAD STAI
+    url: https://siakad.darunnajah.ac.id
+    
   - name: e-Journal
     url: https://ejournal.darunnajah.ac.id
   - name: Repository
@@ -23,6 +38,13 @@ sites:
     url: https://lp3m.darunnajah.ac.id
   - name: Sistem Informasi LP3M
     url: https://monev.darunnajah.ac.id
+  - name: Sistem Penjaminan Mutu
+    url: https://spmi.darunnajah.ac.id
+    
+  - name: Pangkalan Data Pendidikan Tinggi
+    url: https://neo-feederuniv.darunnajah.ac.id
+  - name: Pangkalan Data Pendidikan Tinggi
+    url: https://neo-feederuniv.darunnajah.ac.id
 
   - name: Generator Data
     url: https://generator.darunnajah.ac.id
