@@ -7,13 +7,33 @@ sites:
     url: https://www.darunnajah.ac.id
   - name: Sistem Informasi Akademik
     url: https://simak.darunnajah.ac.id
-  - name: Learning Management System
+  - name: Learning Manajemen System
     url: https://lms.darunnajah.ac.id
+  - name: e-Journal
+    url: https://ejournal.darunnajah.ac.id
   - name: Repository
     url: https://repository.darunnajah.ac.id
   - name: e-Library
     url: https://e-library.darunnajah.ac.id
+  - name: Sistem Informasi Bimbingan TA
+    url: https://bimbingan.darunnajah.ac.id
+  - name: Sistem Informasi Kuliah Kerja Nyata
+    url: https://kkn.darunnajah.ac.id
+  - name: Sistem Informasi LP3M
+    url: https://lp3m.darunnajah.ac.id
+  - name: Sistem Informasi LP3M
+    url: https://monev.darunnajah.ac.id
 
+  - name: Generator Data
+    url: https://generator.darunnajah.ac.id
+  - name: Importer STAI
+    url: https://importerstai.darunnajah.ac.id
+  - name: Importer Universitas
+    url: https://importeruniv.darunnajah.ac.id
+
+  - name: Kicau Darunnajah
+    url: https://kicau.darunnajah.ac.id
+    
 status-website:
   favicon: https://avatars.githubusercontent.com/u/119548347
   metaTags:
