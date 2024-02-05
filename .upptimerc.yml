@@ -75,14 +75,14 @@ status-website:
   navbar:
     - title: Monitoring
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
       
 i18n:
   activeIncidents: Insiden Aktif
   allSystemsOperational: Semua sistem beroperasi
   incidentReport: "Laporan insiden #$NUMBER →"
-  activeIncidentSummary: Dibuka pada $DATE dengan $POSTS postingan
+  activeIncidentSummary: Dibuka pada $DATE dengan $POSTS laporan
   incidentTitle: Detail Insiden $NUMBER
   incidentDetails: Detail Insiden
   incidentFixed: Diperbaiki
@@ -94,7 +94,7 @@ i18n:
   incidentCommentSummary: Diposting pada $DATE oleh $AUTHOR
   incidentBack: ← Kembali ke semua insiden
   pastIncidents: Insiden Masa Lalu
-  pastIncidentsResolved: Diselesaikan dalam $MINUTES menit dengan $POSTS postingan
+  pastIncidentsResolved: Diselesaikan dalam $MINUTES menit dengan $POSTS laporan
   liveStatus: Status Langsung
   overallUptime: Uptime keseluruhan $UPTIME%
   overallUptimeTitle: Uptime keseluruhan
@@ -105,8 +105,8 @@ i18n:
   up: Aktif
   down: Non-aktif
   ms: milidetik
-  loading: Loading
-  navGitHub: GitHub
+  loading: Memuat
+  navGitHub: Kode Sumber
   footer: Halaman ini dikembangkan oleh [Faishal Wafiq Zakiy](https://www.zakiy.my.id) untuk [Universitas Darunanjah](https://www.darunnajah.ac.id).
   rateLimitExceededTitle: Batas tarif terlampaui
   rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
