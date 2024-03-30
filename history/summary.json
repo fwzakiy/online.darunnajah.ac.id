@@ -13,7 +13,7 @@
     "time": 10209,
     "timeDay": 4028,
     "timeWeek": 4723,
-    "timeMonth": 5295,
+    "timeMonth": 5266,
     "timeYear": 10209,
     "dailyMinutesDown": {
       "2024-03-26": 23,
@@ -52,7 +52,7 @@
     "time": 1492,
     "timeDay": 1006,
     "timeWeek": 1266,
-    "timeMonth": 1394,
+    "timeMonth": 1383,
     "timeYear": 1492,
     "dailyMinutesDown": {
       "2024-02-16": 150,
@@ -73,7 +73,7 @@
     "time": 5099,
     "timeDay": 4082,
     "timeWeek": 1428,
-    "timeMonth": 1096,
+    "timeMonth": 1102,
     "timeYear": 5099,
     "dailyMinutesDown": {
       "2024-02-20": 28,
@@ -102,7 +102,7 @@
     "time": 813,
     "timeDay": 1418,
     "timeWeek": 624,
-    "timeMonth": 584,
+    "timeMonth": 579,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -123,7 +123,7 @@
     "time": 798,
     "timeDay": 1625,
     "timeWeek": 772,
-    "timeMonth": 525,
+    "timeMonth": 533,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -144,7 +144,7 @@
     "time": 1423,
     "timeDay": 1789,
     "timeWeek": 1429,
-    "timeMonth": 972,
+    "timeMonth": 964,
     "timeYear": 1423,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -166,7 +166,7 @@
     "time": 611,
     "timeDay": 507,
     "timeWeek": 485,
-    "timeMonth": 484,
+    "timeMonth": 485,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -208,7 +208,7 @@
     "time": 1203,
     "timeDay": 1339,
     "timeWeek": 1197,
-    "timeMonth": 1187,
+    "timeMonth": 1192,
     "timeYear": 1203,
     "dailyMinutesDown": {
       "2024-01-29": 47
@@ -228,7 +228,7 @@
     "time": 1354,
     "timeDay": 1164,
     "timeWeek": 1095,
-    "timeMonth": 1417,
+    "timeMonth": 1411,
     "timeYear": 1354,
     "dailyMinutesDown": {
       "2024-03-16": 420,
@@ -247,15 +247,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/repository.darunnajah.ac.id.ico",
     "slug": "repository",
     "status": "up",
-    "uptime": "95.80%",
+    "uptime": "95.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "94.23%",
-    "uptimeYear": "95.80%",
+    "uptimeYear": "95.81%",
     "time": 638,
     "timeDay": 365,
     "timeWeek": 1325,
-    "timeMonth": 807,
+    "timeMonth": 800,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2024-03-28": 15,
@@ -283,7 +283,7 @@
     "time": 2069,
     "timeDay": 424,
     "timeWeek": 485,
-    "timeMonth": 3604,
+    "timeMonth": 3553,
     "timeYear": 2069,
     "dailyMinutesDown": {
       "2024-03-16": 212,
@@ -310,7 +310,7 @@
     "time": 1508,
     "timeDay": 651,
     "timeWeek": 991,
-    "timeMonth": 916,
+    "timeMonth": 912,
     "timeYear": 1508,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -332,7 +332,7 @@
     "time": 704,
     "timeDay": 506,
     "timeWeek": 475,
-    "timeMonth": 444,
+    "timeMonth": 443,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2024-01-10": 28
@@ -352,7 +352,7 @@
     "time": 891,
     "timeDay": 632,
     "timeWeek": 669,
-    "timeMonth": 635,
+    "timeMonth": 643,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -373,7 +373,7 @@
     "time": 891,
     "timeDay": 632,
     "timeWeek": 669,
-    "timeMonth": 635,
+    "timeMonth": 643,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -394,7 +394,7 @@
     "time": 791,
     "timeDay": 326,
     "timeWeek": 512,
-    "timeMonth": 414,
+    "timeMonth": 410,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2024-02-16": 64,
@@ -415,7 +415,7 @@
     "time": 153,
     "timeDay": 79,
     "timeWeek": 213,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -433,7 +433,7 @@
     "time": 153,
     "timeDay": 79,
     "timeWeek": 213,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -451,7 +451,7 @@
     "time": 753,
     "timeDay": 336,
     "timeWeek": 609,
-    "timeMonth": 486,
+    "timeMonth": 483,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2024-02-16": 63,
@@ -464,18 +464,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/importerstai.darunnajah.ac.id.ico",
     "slug": "importer-stai",
     "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "94.04%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "97.83%",
+    "uptime": "97.84%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "97.84%",
     "time": 1901,
     "timeDay": 1994,
     "timeWeek": 2143,
-    "timeMonth": 1797,
+    "timeMonth": 1786,
     "timeYear": 1901,
     "dailyMinutesDown": {
-      "2024-03-29": 86,
+      "2024-03-29": 73,
       "2024-03-27": 22,
       "2024-02-27": 21,
       "2024-02-16": 502,
@@ -520,7 +520,7 @@
     "time": 833,
     "timeDay": 988,
     "timeWeek": 1042,
-    "timeMonth": 854,
+    "timeMonth": 852,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2024-03-16": 392,
