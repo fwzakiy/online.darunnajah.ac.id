@@ -1,5 +1,5 @@
 # Change these first
-owner: fwzakiy # Your GitHub organization or username, where this repository lives
+owner: universitasdarunnajah # Your GitHub organization or username, where this repository lives
 repo: online.darunnajah.ac.id # The name of this repository
 
 sites:
@@ -69,9 +69,9 @@ status-website:
   cname: online.darunnajah.ac.id
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/119548347
-  name: Sistem Monitoring Situs Web & Sistem Informasi Universitas Darunnajah
+  name: Dasbor Monitoring Sistem Informasi Universitas Darunnajah
   introTitle: "**Universitas Darunnajah** adalah lembaga pendidikan tinggi swasta yang bernaung dibawah Yayasan Darunnajah di Jakarta Selatan, Indonesia."
-  introMessage: Halaman ini berfungsi untuk memonitor situs web dan sistem informasi yang dimiliki Universitas Darunnajah.
+  introMessage: Halaman ini berfungsi untuk memonitor sistem informasi yang dimiliki Universitas Darunnajah.
   #navbar: Hapus tagar kalau mau pakai menu.
   #  - title: Monitoring
   #    href: /
@@ -108,7 +108,7 @@ i18n:
   loading: Memuat
   navGitHub: Kode Sumber
   footer: Dikembangkan oleh [Faishal Wafiq Zakiy](https://www.zakiy.my.id) untuk [Universitas Darunanjah](https://www.darunnajah.ac.id).
-  rateLimitExceededTitle: Batas tarif terlampaui
+  rateLimitExceededTitle: Batas permintaan terlampaui
   rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
   rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
   rateLimitExceededErrorMeaning: Situs web ini menggunakan API GitHub untuk mengakses data waktu nyata tentang status situs web kami. Secara default, GitHub mengizinkan setiap alamat IP 60 permintaan per jam, yang telah Anda gunakan.
